@@ -14,7 +14,7 @@ body {
   align-items: center;
   justify-content: center;
   position: relative;
-  font-size: 5vmax;
+  font-size: 7vmax;
 }
 
 .box {
@@ -23,8 +23,8 @@ body {
   padding: 20px;
   border-radius: 5px;
   text-align: center;
-  width: 6vmax;
-  height: 14vmax;
+  width: 10vmax;
+  height: 18vmax;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -35,8 +35,8 @@ body {
 
 .day {
   position: absolute;
-  bottom: 4px;
-  right: 6px;
+  bottom: 6px;
+  right: 10px;
   font-size: 0.2em;
   color: #ffffff;
   text-transform: uppercase;
